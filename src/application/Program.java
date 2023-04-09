@@ -20,6 +20,7 @@ public class Program {
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
 		x.c = sc.nextDouble();
+		
 		System.out.println("Enter the measures of triangle Y: ");
 		y.a = sc.nextDouble();
 		y.b = sc.nextDouble();
